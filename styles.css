@@ -1,0 +1,8 @@
+.block-users-stats .h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.block-users-stats .item:hover {
+    text-decoration: underline;
+}
